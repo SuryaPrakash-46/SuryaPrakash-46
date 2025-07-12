@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash Guguloth </h1>
-<h3 align="center">Aspiring Java Backend & Full-Stack Developer | Passionate about Microservices</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Skilled in Java Backend & Frontend Technologies</h3>
 
 ---
 ## 👨‍💻 About Me
@@ -27,9 +27,9 @@
 
 ## 🌐 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanaraj904)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dhanaraj519) 
-- [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:panabakadhanaraj@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/guguloth-surya-prakash-5a4744367)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SuryaPrakash-46) 
+- [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:suryaprakashguguloth46@gmail.com)
 
 ---
 ## 🚀 Future Goals
